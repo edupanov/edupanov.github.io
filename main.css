@@ -1,0 +1,48 @@
+* {
+    margin: 0 1%;
+    padding: 0;
+   }
+.header-img {
+    font-family: 'Caveat', cursive;
+	font-size: 50px;
+	font-weight: 900;
+	width: 100%;
+	height: 200px;
+	margin-bottom: 15px;
+	text-align: center;	
+	background: url(1.jpg) no-repeat; /* ‘оновый рисунок */
+	background-size: 100% 100%;
+    color: #000000; /* ÷вет текста */    
+}
+.header-img span {
+		display: block; 
+	    text-transform: uppercase;
+	}   
+aside {
+	display: inline-block;
+	width: 20%;
+	text-align: justify;
+	
+	}
+aside img{
+	width: 100%;
+}
+section {
+	display: inline-block;
+	width: 70%;
+	text-align: justify;
+	
+
+}
+section img{
+	width: 100%;
+}
+aside, section {
+	vertical-align: top;
+}
+footer {
+	display: block;
+	background: #37a2ca;
+	height: 20px;
+	text-align: center;
+}
