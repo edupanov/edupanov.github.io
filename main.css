@@ -1,5 +1,5 @@
 * {
-    margin: 0 1%;
+    margin: 0;
     padding: 0;
    }
 .header-img {
@@ -10,9 +10,9 @@
 	height: 200px;
 	margin-bottom: 15px;
 	text-align: center;	
-	background: url(1.jpg) no-repeat; /* Фоновый рисунок */
+	background: url(1.jpg) no-repeat; /* Г”Г®Г­Г®ГўГ»Г© Г°ГЁГ±ГіГ­Г®ГЄ */
 	background-size: 100% 100%;
-    color: #000000; /* Цвет текста */    
+    color: #000000; /* Г–ГўГҐГІ ГІГҐГЄГ±ГІГ  */    
 }
 .header-img span {
 		display: block; 
